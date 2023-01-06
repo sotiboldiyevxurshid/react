@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react'
-import './stule.css'
+import './style.css'
 
 export default function Button() {
 
